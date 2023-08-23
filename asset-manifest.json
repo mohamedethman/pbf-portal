@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pbf-portal/static/css/main.1159a0d5.css",
+    "main.js": "/pbf-portal/static/js/main.8134f878.js",
+    "static/js/787.995aaa87.chunk.js": "/pbf-portal/static/js/787.995aaa87.chunk.js",
+    "static/media/1.jpg": "/pbf-portal/static/media/1.8a5e2903d9d479429cae.jpg",
+    "static/media/2.jpg": "/pbf-portal/static/media/2.80b634b68316d6ecb1df.jpg",
+    "static/media/3.jpg": "/pbf-portal/static/media/3.77480777e74e0754f75e.jpg",
+    "index.html": "/pbf-portal/index.html",
+    "main.1159a0d5.css.map": "/pbf-portal/static/css/main.1159a0d5.css.map",
+    "main.8134f878.js.map": "/pbf-portal/static/js/main.8134f878.js.map",
+    "787.995aaa87.chunk.js.map": "/pbf-portal/static/js/787.995aaa87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1159a0d5.css",
+    "static/js/main.8134f878.js"
+  ]
+}
